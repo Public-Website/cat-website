@@ -15,6 +15,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "CAT Consulting",
+  description: "Providing planning, design, consulting, implementation and Manage services support for Hardware, Software, Infrastructure, and Cyber Security, and efficient information system management within the organization.",
   icons: {
     icon: '/catlogo.png', // /public path
   },
